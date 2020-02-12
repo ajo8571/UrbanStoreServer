@@ -1,0 +1,12 @@
+{
+  "name": "serverdev_w_node",
+  "version": "1.0.0",
+  "description": "\"practice for teebees server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Afe Omiyi",
+  "license": "ISC"
+}
